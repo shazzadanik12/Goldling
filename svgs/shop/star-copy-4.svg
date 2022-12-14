@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="15" viewBox="0 0 16 15">
+    <defs>
+        <filter id="pmfvhe50ta" color-interpolation-filters="auto">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.160784 0 0 0 0 0.137255 0 0 0 0 0.250980 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g filter="url(#pmfvhe50ta)" transform="translate(-350.000000, -762.000000) translate(143.000000, 762.000000)">
+                <g>
+                    <path stroke="#292340" d="M88 .941l2.376 3.789 4.337 1.089-2.868 3.43.304 4.462L88 12.042l-4.15 1.669.305-4.462-2.868-3.43 4.337-1.09L88 .942z" transform="translate(127.000000, 0.000000)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
